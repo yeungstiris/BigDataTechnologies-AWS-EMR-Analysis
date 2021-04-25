@@ -17,6 +17,6 @@ The analysis divided into four parts, including initial setup, categories analys
 ![cluster_iamge](assets/cluster_configuration.png)
 ![notebook_iamge](assets/cluster_configuration.png)
 
-![cluster_iamge](assets/cluster_configuration.png)
-![notebook_iamge](assets/cluster_configuration.png)
+![cluster_iamge](https://github.com/yeungstiris/BigDataTechnologies-AWS-EMR-Analysis/blob/main/assets/Cluster.png)
+![notebook_iamge](https://github.com/yeungstiris/BigDataTechnologies-AWS-EMR-Analysis/blob/main/assets/Notebook.png)
 
