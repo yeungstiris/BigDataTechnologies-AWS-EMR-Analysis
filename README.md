@@ -12,11 +12,5 @@ In this project, I analysed a subset of Yelp's business, review and user data fr
 
 The analysis divided into four parts, including initial setup, categories analysis, compared the overall business rating, and an analysis of how top users on Yelp influence the business rating. 
 
-## Cluster and Notebook Configs
 
-![cluster_iamge](assets/cluster_configuration.png)
-![notebook_iamge](assets/cluster_configuration.png)
-
-![cluster_iamge](https://github.com/yeungstiris/BigDataTechnologies-AWS-EMR-Analysis/blob/main/assets/Cluster.png)
-![notebook_iamge](https://github.com/yeungstiris/BigDataTechnologies-AWS-EMR-Analysis/blob/main/assets/Notebook.png)
 
